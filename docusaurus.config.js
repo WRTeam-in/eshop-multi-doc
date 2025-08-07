@@ -2,10 +2,15 @@
 const config = {
   title: 'eShop',
   tagline: 'Your one-stop Flutter solution',
-  url: 'https://your-site.com',
-  baseUrl: '/',
+  url: 'https://WRTeam-in.github.io',
+  baseUrl: '/eshop-multi-doc/',
+  organizationName: 'WRTeam-in',
+  projectName: 'eshop-multi-doc',
   favicon: 'img/favicon.ico',
   i18n: { defaultLocale: 'en', locales: ['en'] },
+  onBrokenLinks: 'ignore',
+  trailingSlash: false,
+
   presets: [
     [
       'classic',

@@ -1,0 +1,77 @@
+.sectionNavigator {
+    margin: 2.5rem 0 0 0;
+    padding: 2rem 0 0 0;
+    border-top: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.navButtonsRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 2rem;
+}
+
+.navButtonCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 220px;
+    max-width: 340px;
+    padding: 1.25rem 1.5rem;
+    border: 2px solid var(--ifm-color-primary);
+    border-radius: 12px;
+    background: var(--ifm-background-surface-color, #18191a);
+    color: var(--ifm-color-primary);
+    font-size: 1.1rem;
+    font-weight: 600;
+    text-decoration: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    transition: border-color 0.2s, box-shadow 0.2s, background 0.2s;
+}
+
+.navButtonCard:hover {
+    border-color: var(--ifm-color-primary-dark);
+    background: var(--ifm-color-emphasis-100);
+    color: var(--ifm-color-primary-dark);
+    text-decoration: none;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
+
+.prevButton {
+    align-items: flex-start;
+    text-align: left;
+}
+
+.nextButton {
+    align-items: flex-end;
+    text-align: right;
+}
+
+.arrow {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--ifm-color-primary);
+    opacity: 0.85;
+}
+
+.sectionName {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-top: 0.5rem;
+    margin-bottom: 0.2rem;
+    color: var(--ifm-font-color-base);
+}
+
+@media (max-width: 900px) {
+    .navButtonsRow {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .prevButton,
+    .nextButton {
+        align-items: flex-start !important;
+        text-align: left !important;
+        width: 100%;
+    }
+}

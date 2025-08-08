@@ -6,6 +6,7 @@ Welcome to the eShop Multi Vendor ChangeLog! This section documents all the impo
 
 | Product Version | Flutter Version | Kotlin Version | AGP Version | distributionUrl (Gradle) | JDK Version |
 |----------------|----------------|---------------|-------------|-------------------------|-------------|
+| 3.0.0          | 3.32.1         | 2.0.10        | 8.6.0       | 8.7                     | 19.0.2 & 21.0     |
 | 2.10.5         | 3.32.1         | 2.0.10        | 8.6.0       | 8.7                     | 19.0.2      |
 | 2.10.4         | 3.27.3         | 2.0.10        | 8.5.0       | 8.7                     | 19.0.2      |
 | 2.10.3         | 3.24.3         | 1.9.22        | 7.3.0       | 7.6                     | 19.0.2      |
@@ -15,6 +16,33 @@ Welcome to the eShop Multi Vendor ChangeLog! This section documents all the impo
 
 
 ## Version History
+
+### Version 3.0.0 (Updated on 7-August-2025)
+
+**Improvements**
+- Updated PhonePe payment flow to support latest version
+- Enhanced multi-notification system for better reliability
+- Optimized bulk product upload, update & download
+
+**Fixes**
+- General bug fixes and code improvements
+
+**Affiliate System Details**
+
+- **Admin Panel**
+  - Affiliate Management – create, edit & manage affiliate accounts
+  - Commission Policies – global or category-specific rules
+  - Category-based Commissions – set % by product category
+  - Sales Reports – track affiliate-driven revenue
+  - Bulk Affiliate Settings – update affiliate product settings en masse
+
+- **Affiliate Panel**
+  - Dashboard Overview – earnings, referrals & performance at a glance
+  - Link Generator – shareable product links with unique tokens
+  - Product-wise Tracking – monitor traffic, clicks & conversions
+  - Commission Tracking – Pending Amount, Confirmed Earnings, Requested Withdrawals, Paid (Withdrawn) Amount
+  - Withdraw Request – request payout of confirmed commissions
+  - Transaction History – full log of all commission payments & requests
 
 ### Version 2.10.5 (Updated on 6-June-2025)
 

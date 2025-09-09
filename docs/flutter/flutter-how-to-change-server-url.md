@@ -7,6 +7,6 @@ title: How to Change server url
 
 ![eShop](/img/serverurladmin.png)
 
-2. Go to lib > settings.dart. Here you have to change your API server url. **don't forget to add slash after api keyword** 
+2. Go to lib > appConstants.dart. Here you have to change your API server url. **don't forget to add slash after api keyword** 
 
 ![eShop](/img/serverurl.png)

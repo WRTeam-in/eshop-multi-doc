@@ -6,6 +6,8 @@ Welcome to the eShop Multi Vendor ChangeLog! This section documents all the impo
 
 | Product Version | Flutter Version | Kotlin Version | AGP Version | distributionUrl (Gradle) | JDK Version |
 |----------------|----------------|---------------|-------------|-------------------------|-------------|
+| 3.1.0          | 3.35.3         | 2.1.0        | 8.11.1       | 8.14.3                     | 21.0 & 23.0     |
+| 3.0.0          | 3.35.3         | 2.1.0        | 8.11.1       | 8.14.3                     | 21.0 & 23.0     |
 | 3.0.0          | 3.32.1         | 2.0.10        | 8.6.0       | 8.7                     | 19.0.2 & 21.0     |
 | 2.10.5         | 3.32.1         | 2.0.10        | 8.6.0       | 8.7                     | 19.0.2      |
 | 2.10.4         | 3.27.3         | 2.0.10        | 8.5.0       | 8.7                     | 19.0.2      |
@@ -16,6 +18,31 @@ Welcome to the eShop Multi Vendor ChangeLog! This section documents all the impo
 
 
 ## Version History
+
+### Version 3.1.0 (Updated on 18 Nov 2025)
+
+**Added**
+- New Theme for the Panels
+
+**Fixed**
+- Redirect issue when non-logged-in users open a product page
+- Notifications not working properly
+- Various UI errors across the app
+- READ_MEDIA_IMAGES and READ_MEDIA_VIDEO permission handling issues
+
+**Improved**
+- Code quality and overall performance
+
+### Version 3.0.0 (Updated on 5 Nov 2025)
+
+**Fixes**
+- General bug fixes and code improvements
+
+**Updated**
+- Compatible with Flutter 3.35.3 & Java 21/23
+
+**Added**
+- Single Seller System
 
 ### Version 3.0.0 (Updated on 7-August-2025)
 

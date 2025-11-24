@@ -4,7 +4,7 @@ title: How to create Deep Link for Share Item
 ---
 
 1. Open your admin panel.
-2. Go to System > Store Settings.
+2. Go to System Settings > Store Settings.
 3. Add android playstore link, ios appstore link, one word scheme and Host name. (Note: after release apps in appstore and playstore don't forgot to add your link in admin panel)
 
 ![eShop](/img/nativelink1.png)

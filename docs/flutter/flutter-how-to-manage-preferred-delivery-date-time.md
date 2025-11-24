@@ -3,7 +3,7 @@ id: flutter-how-to-manage-preferred-delivery-date-time
 title: How to manage preferred delivery date/time
 ---
 
-1. Go to Admin Panel > System Settings > Delivery Time Slot
+1. Go to Admin Panel > System Settings > Time Slot
 
 2. Here you can manage delivery time slots
 

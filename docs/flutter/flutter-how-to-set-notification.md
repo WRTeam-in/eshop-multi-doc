@@ -17,7 +17,7 @@ For detailed information about Firebase Cloud Messaging (FCM) setup and configur
 
 ![eShop](/img/notification3.png)
 
-4. Now add your project id, vap id key and downloaded service json file in admin panel Settings > Notification Settings and save it.
+4. Now add your project id, vap id key and downloaded service json file in admin panel System Settings > Notification Settings and save it.
 
 ![eShop](/img/notification4.png)
 

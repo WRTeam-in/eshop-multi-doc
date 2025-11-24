@@ -3,7 +3,7 @@ id: flutter-how-to-change-server-url
 title: How to Change server url
 ---
 
-1. go to your admin panel in that go to system and inside that client api keys, here you have to copy API link as shown in below fig and paste it in app baseURL.
+1. go to your admin panel in that go to System Settings and inside that API Keys, here you have to copy API link as shown in below fig and paste it in app baseURL.
 
 ![eShop](/img/serverurladmin.png)
 

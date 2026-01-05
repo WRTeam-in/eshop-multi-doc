@@ -239,6 +239,7 @@ const sidebars = {
         'flutter/flutter-how-to-change-app-font',
         'flutter/flutter-how-to-change-server-url',
         'flutter/flutter-how-to-create-firebase-project',
+        'flutter/flutter-how-to-enable-firebase-email-authentication',
         'flutter/flutter-how-to-enable-firebase-phone-authentication-otp',
         'flutter/flutter-how-to-change-default-country-code-for-otp',
         'flutter/flutter-how-to-enable-firebase-blaze-billing',

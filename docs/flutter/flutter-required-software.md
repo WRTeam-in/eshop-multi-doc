@@ -16,6 +16,6 @@ Thank you for purchasing the code. If you have any questions that are beyond the
 
 ## Required Software
 1. Android Studio 
-2. Flutter 3.35.3
+2. Flutter 3.38.3
 3. Java Version 21.0/23.0
 

@@ -6,6 +6,7 @@ Welcome to the eShop Multi Vendor ChangeLog! This section documents all the impo
 
 | Product Version | Flutter Version | Kotlin Version | AGP Version | distributionUrl (Gradle) | JDK Version |
 |----------------|----------------|---------------|-------------|-------------------------|-------------|
+| 3.2.0          | 3.38.3         | 2.1.0        | 8.11.1       | 8.14.3                     | 21.0 & 23.0     |
 | 3.1.0          | 3.35.3         | 2.1.0        | 8.11.1       | 8.14.3                     | 21.0 & 23.0     |
 | 3.0.0          | 3.35.3         | 2.1.0        | 8.11.1       | 8.14.3                     | 21.0 & 23.0     |
 | 3.0.0          | 3.32.1         | 2.0.10        | 8.6.0       | 8.7                     | 19.0.2 & 21.0     |
@@ -18,6 +19,25 @@ Welcome to the eShop Multi Vendor ChangeLog! This section documents all the impo
 
 
 ## Version History
+
+### Version 3.2.0 (Updated on 31 Dec 2025)
+
+**Added**
+- Deliverable grouping system (city-wise and pincode-wise)
+- System progress wizard for guided setup
+- Email & password login registration option
+- Search functionality in admin panel sidebar menu
+- Quick action shortcuts (add product, brand, category, seller)
+
+**Updated**
+- Compatible with Flutter 3.38.3
+
+**Improved**
+- Admin panel login session handling
+- Overall session stability and access management
+
+**Fixed**
+- Bug fixes and performance improvements 
 
 ### Version 3.1.0 (Updated on 18 Nov 2025)
 

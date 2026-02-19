@@ -6,6 +6,7 @@ Welcome to the eShop Multi Vendor ChangeLog! This section documents all the impo
 
 | Product Version | Flutter Version | Kotlin Version | AGP Version | distributionUrl (Gradle) | JDK Version |
 |----------------|----------------|---------------|-------------|-------------------------|-------------|
+| 3.2.1          | 3.38.3         | 2.1.0        | 8.11.1       | 8.14.3                     | 21.0 & 23.0     |
 | 3.2.0          | 3.38.3         | 2.1.0        | 8.11.1       | 8.14.3                     | 21.0 & 23.0     |
 | 3.1.0          | 3.35.3         | 2.1.0        | 8.11.1       | 8.14.3                     | 21.0 & 23.0     |
 | 3.0.0          | 3.35.3         | 2.1.0        | 8.11.1       | 8.14.3                     | 21.0 & 23.0     |
@@ -19,6 +20,17 @@ Welcome to the eShop Multi Vendor ChangeLog! This section documents all the impo
 
 
 ## Version History
+
+### Version 3.2.1 (Updated on 18 Feb 2026)
+
+**Added**
+- Deliverable grouping system 
+- Zipcodes/Cities group-wise delivery charges
+- Al-generated productdescriptions based on product title 
+- Bulk delete products functionality
+
+**Fixed**
+- General bug fixes and performance improvements 
 
 ### Version 3.2.0 (Updated on 31 Dec 2025)
 

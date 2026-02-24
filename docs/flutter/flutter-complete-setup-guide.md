@@ -4,6 +4,49 @@ Set up your development environment the right way to start building beautiful ap
 
 ---
 
+<div style={{display: 'flex', justifyContent: 'center', padding: '2rem 0'}}>
+  <a href="https://wrteam-in.github.io/common_app_doc/GeneralSettings/basicsetup" target="_blank" style={{
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+    gap: '1rem',
+    padding: '2rem 3rem',
+    borderRadius: '16px',
+    background: 'linear-gradient(135deg, rgba(254, 126, 123, 0.08), rgba(254, 126, 123, 0.15))',
+    border: '2px solid #FE7E7B',
+    textDecoration: 'none',
+    color: 'inherit',
+    boxShadow: '0 4px 20px rgba(254, 126, 123, 0.15)',
+    transition: 'all 0.3s ease',
+    maxWidth: '500px',
+    width: '100%',
+    textAlign: 'center'
+  }}>
+    <span style={{fontSize: '2.5rem'}}>🚀</span>
+    <span style={{fontSize: '1.4rem', fontWeight: '700', color: '#FE7E7B'}}>Basic Setup Guide</span>
+    <span style={{fontSize: '0.95rem', color: '#666', lineHeight: '1.5'}}>
+      Follow our step-by-step common documentation to set up Flutter, Java JDK, IDE, and run your first app.
+    </span>
+    <span style={{
+      marginTop: '0.5rem',
+      padding: '0.6rem 1.8rem',
+      borderRadius: '8px',
+      backgroundColor: '#FE7E7B',
+      color: 'white',
+      fontWeight: '600',
+      fontSize: '0.95rem',
+      boxShadow: '0 4px 15px rgba(254, 126, 123, 0.3)'
+    }}>View Setup Guide →</span>
+  </a>
+</div>
+
+
+<!-- # Flutter & Java JDK Installation Guide
+
+Set up your development environment the right way to start building beautiful apps with Flutter. This guide covers installing Flutter, setting up Java, configuring your IDE, and running your first project successfully.
+
+---
+
 ## 1. Get Flutter Ready
 
 ### Download the Flutter SDK  
@@ -119,4 +162,4 @@ to make sure all tools are properly configured.
 
 ---
 
-You're now ready to start building amazing Flutter apps. Enjoy coding! 
+You're now ready to start building amazing Flutter apps. Enjoy coding!  -->
